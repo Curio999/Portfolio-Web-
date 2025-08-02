@@ -15,8 +15,7 @@ This is a basic HTML5 project that demonstrates the use of semantic tags, access
 
 To view this project:
 
-1. Clone the repository
-2. Open `calvinsmikwaya.com` in your browser
+1. Open `https://mikwaya.vercel.app/` in your browser
 
 ## Author
 
