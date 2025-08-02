@@ -15,12 +15,15 @@ This is a basic HTML5 project that demonstrates the use of semantic tags, access
 
 To view this project:
 
-1. Clone the repository
-2. Open `calvinsmikwaya.com` in your browser
+1. Open `https://mikwaya.vercel.app/` in your browser
 
 ## Author
 
+<<<<<<< HEAD
 Calvins Mikwaya– [@Curio999](https://github.com/curio999)
+=======
+Calvins Mikwaya – [@Curio999](https://github.com/curio999)
+>>>>>>> d5509efd0c67cfe2a69209e336c714cb67f05f2c
 
 ---
 
