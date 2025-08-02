@@ -20,7 +20,7 @@ To view this project:
 
 ## Author
 
-Your Name – [@Curio999](https://github.com/curio999)
+Calvins Mikwaya– [@Curio999](https://github.com/curio999)
 
 ---
 
